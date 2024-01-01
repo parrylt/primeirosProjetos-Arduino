@@ -1,5 +1,5 @@
 # primeirosProjetos-Arduino
-uns dois projetos de arduino para começar a aprender
+uns dois projetos de arduino para começar a aprender a usar. Aula de Sistemas Embarcados.
 
 <div align="center">
   <h3>Primeiro que eu fiz com led que fica aceso assim que liga</h3>
